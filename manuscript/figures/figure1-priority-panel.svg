@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="580" viewBox="0 0 1050 580">
+<rect width="1050" height="580" fill="white"/>
+<text x="525" y="30" font-family="Arial,sans-serif" font-size="17px" font-weight="700" text-anchor="middle" fill="#23323b">Terpene priority panel: coverage is broader than interpretable assay evidence</text>
+<text x="28" y="66" font-family="Arial,sans-serif" font-size="14px" font-weight="700" text-anchor="start" fill="#23323b">A  GCP-linked assay coverage</text>
+<text x="545" y="66" font-family="Arial,sans-serif" font-size="14px" font-weight="700" text-anchor="start" fill="#23323b">B  Assay-context verification</text>
+<line x1="205.0" y1="93" x2="205.0" y2="430" stroke="#d9e2e8" stroke-width="1"/>
+<text x="205.0" y="450" font-family="Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="middle" fill="#53636d">0</text>
+<line x1="252.41379310344828" y1="93" x2="252.41379310344828" y2="430" stroke="#d9e2e8" stroke-width="1"/>
+<text x="252.41379310344828" y="450" font-family="Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="middle" fill="#53636d">100</text>
+<line x1="299.82758620689657" y1="93" x2="299.82758620689657" y2="430" stroke="#d9e2e8" stroke-width="1"/>
+<text x="299.82758620689657" y="450" font-family="Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="middle" fill="#53636d">200</text>
+<line x1="347.2413793103448" y1="93" x2="347.2413793103448" y2="430" stroke="#d9e2e8" stroke-width="1"/>
+<text x="347.2413793103448" y="450" font-family="Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="middle" fill="#53636d">300</text>
+<line x1="394.65517241379314" y1="93" x2="394.65517241379314" y2="430" stroke="#d9e2e8" stroke-width="1"/>
+<text x="394.65517241379314" y="450" font-family="Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="middle" fill="#53636d">400</text>
+<line x1="442.0689655172414" y1="93" x2="442.0689655172414" y2="430" stroke="#d9e2e8" stroke-width="1"/>
+<text x="442.0689655172414" y="450" font-family="Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="middle" fill="#53636d">500</text>
+<text x="195" y="123" font-family="Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="end" fill="#23323b">l-limonene</text>
+<rect x="205" y="105" width="125.2" height="26" fill="#1b4965"/>
+<text x="338.1724137931035" y="123" font-family="Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="start" fill="#23323b">264</text>
+<text x="195" y="171" font-family="Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="end" fill="#23323b">terpinolene</text>
+<rect x="205" y="153" width="135.6" height="26" fill="#1b4965"/>
+<text x="348.6034482758621" y="171" font-family="Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="start" fill="#23323b">286</text>
+<text x="195" y="219" font-family="Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="end" fill="#23323b">β-caryophyllene</text>
+<rect x="205" y="201" width="181.6" height="26" fill="#1b4965"/>
+<text x="394.5948275862069" y="219" font-family="Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="start" fill="#23323b">383</text>
+<text x="195" y="267" font-family="Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="end" fill="#23323b">α-bisabolol</text>
+<rect x="205" y="249" width="192.0" height="26" fill="#1b4965"/>
+<text x="405.0258620689655" y="267" font-family="Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="start" fill="#23323b">405</text>
+<text x="195" y="315" font-family="Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="end" fill="#23323b">d-limonene</text>
+<rect x="205" y="297" width="211.9" height="26" fill="#1b4965"/>
+<text x="424.93965517241384" y="315" font-family="Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="start" fill="#23323b">447</text>
+<text x="195" y="363" font-family="Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="end" fill="#23323b">β-myrcene</text>
+<rect x="205" y="345" width="239.9" height="26" fill="#1b4965"/>
+<text x="452.91379310344826" y="363" font-family="Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="start" fill="#23323b">506</text>
+<text x="342.5" y="475" font-family="Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="middle" fill="#23323b">Linked PubChem BioAssay records (count)</text>
+<text x="715" y="123" font-family="Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="end" fill="#23323b">borneol</text>
+<circle cx="760" cy="118" r="8" fill="#bfc0c0" stroke="white" stroke-width="1"/>
+<text x="715" y="153" font-family="Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="end" fill="#23323b">d-limonene</text>
+<circle cx="760" cy="148" r="8" fill="#ca6702" stroke="white" stroke-width="1"/>
+<text x="715" y="183" font-family="Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="end" fill="#23323b">fenchol</text>
+<circle cx="760" cy="178" r="8" fill="#bfc0c0" stroke="white" stroke-width="1"/>
+<text x="715" y="213" font-family="Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="end" fill="#23323b">l-limonene</text>
+<circle cx="760" cy="208" r="8" fill="#8d99ae" stroke="white" stroke-width="1"/>
+<text x="715" y="243" font-family="Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="end" fill="#23323b">linalool</text>
+<circle cx="760" cy="238" r="8" fill="#bfc0c0" stroke="white" stroke-width="1"/>
+<text x="715" y="273" font-family="Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="end" fill="#23323b">nerolidol</text>
+<circle cx="760" cy="268" r="8" fill="#bfc0c0" stroke="white" stroke-width="1"/>
+<text x="715" y="303" font-family="Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="end" fill="#23323b">terpinolene</text>
+<circle cx="760" cy="298" r="8" fill="#1b4965" stroke="white" stroke-width="1"/>
+<text x="715" y="333" font-family="Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="end" fill="#23323b">α-bisabolol</text>
+<circle cx="760" cy="328" r="8" fill="#8d99ae" stroke="white" stroke-width="1"/>
+<text x="715" y="363" font-family="Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="end" fill="#23323b">α-pinene</text>
+<circle cx="760" cy="358" r="8" fill="#bfc0c0" stroke="white" stroke-width="1"/>
+<text x="715" y="393" font-family="Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="end" fill="#23323b">β-caryophyllene</text>
+<circle cx="760" cy="388" r="8" fill="#1b4965" stroke="white" stroke-width="1"/>
+<text x="715" y="423" font-family="Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="end" fill="#23323b">β-myrcene</text>
+<circle cx="760" cy="418" r="8" fill="#1b4965" stroke="white" stroke-width="1"/>
+<circle cx="545" cy="471" r="7" fill="#1b4965"/>
+<text x="559" y="475" font-family="Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="start" fill="#23323b">Verified result row</text>
+<circle cx="780" cy="471" r="7" fill="#ca6702"/>
+<text x="794" y="475" font-family="Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="start" fill="#23323b">Flag; context incomplete</text>
+<circle cx="545" cy="496" r="7" fill="#8d99ae"/>
+<text x="559" y="500" font-family="Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="start" fill="#23323b">GCP-linked; extraction pending</text>
+<circle cx="780" cy="496" r="7" fill="#bfc0c0"/>
+<text x="794" y="500" font-family="Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="start" fill="#23323b">No exact GCP row</text>
+<text x="28" y="555" font-family="Arial,sans-serif" font-size="10px" font-weight="400" text-anchor="start" fill="#53636d">GCP snapshot: 2026-09-04. A linked AID is not itself a positive activity result.</text>
+</svg>

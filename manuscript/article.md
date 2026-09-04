@@ -123,6 +123,25 @@ quantitative endpoint and belongs to a Salmonella mutagenicity summary. It is
 therefore retained as a context-limited record rather than promoted to a
 general activity claim.
 
+#### Table 1. Verified assay-level observations in the initial priority panel
+
+| Compound | PubChem CID | AID | Assay system | Endpoint | Result | Evidence boundary |
+|---|---:|---:|---|---|---:|---|
+| β-caryophyllene | 5281515 | 332912 | *C. acnes* ATCC 11827 | MIC | 6.25 μg/mL | Endpoint- and organism-specific observation |
+| Terpinolene | 11463 | 332912 | *C. acnes* ATCC 11827 | MIC | 50 μg/mL | Endpoint- and organism-specific observation |
+| β-myrcene | 31253 | 338300 | *Psoroptes ovis* | Activity | 6.7% | Not comparable with MIC or receptor potency |
+| d-Limonene | 440917 | 1189 | Salmonella mutagenicity summary | Activity flag | Active | No quantitative endpoint; context-limited |
+
+The complete machine-readable observations, including SIDs, source accessions,
+PMIDs, DOIs, and interpretation boundaries, are in
+[`../data/priority-assay-observations.csv`](../data/priority-assay-observations.csv).
+
+![Figure 1. GCP assay coverage and assay-context verification in the priority panel.](figures/figure1-priority-panel.png)
+
+**Figure 1.** GCP-linked assay coverage is shown separately from assay-context
+verification. A nonzero linked-record count does not mean that the compound was
+active, and an absent exact row is not evidence of inactivity.
+
 Planned outputs include a PRISMA-style flow summary, a
 compound identity table, an assay-level evidence map, and a missing-context
 table.
