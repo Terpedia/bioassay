@@ -58,6 +58,12 @@ inactivity.
 6. Audit identity, controls, endpoint comparability, and evidence tier.
 7. Produce compound-by-assay summaries and a narrative synthesis.
 
+For the initial priority panel, the GCP CID-to-AID lookup is the denominator.
+Underlying assay records are then retrieved from the versioned PubChem BioAssay
+XML/RDF or PubChem assay service and filtered back to the exact PubChem CID.
+An AID attached to a CID is not treated as a positive result until the
+compound-level result row, endpoint, units, and outcome are verified.
+
 ## Interpretation boundary
 
 An assay signal does not by itself establish therapeutic efficacy, in-vivo

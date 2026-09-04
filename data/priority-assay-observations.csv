@@ -1,0 +1,3 @@
+compound,pubchem_cid,aid,sid,assay_source,assay_name,target_or_system,endpoint,relation,value,units,outcome,pmid,doi,interpretation
+terpinolene,11463,332912,103581573,ChEMBL1006951,"Antimicrobial activity Propionibacterium acnes ATCC 11827 after 2 days by broth dilution method","Cutibacterium acnes ATCC 11827",MIC,=,50,"ug.mL-1",Unspecified,8158169,10.1021/np50103a002,"Identity-resolved assay record linked to CID 11463; supports an endpoint-specific antimicrobial observation, not broad antimicrobial efficacy"
+d-limonene,440917,1189,48413942,PubChem,"Assay record retrieved from PubChem BioAssay","assay system not yet extracted",unknown,NA,NA,NA,Active,NA,NA,"Activity flag without endpoint/context is insufficient for quantitative or mechanistic interpretation"

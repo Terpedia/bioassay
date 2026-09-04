@@ -1,0 +1,12 @@
+compound,PubChem_CID,PubChem_title,InChIKey,GCP_lookup_status,GCP_bioassay_count,selected_AID,identity_note
+β-caryophyllene,5281515,(-)-Caryophyllene,NPNUFJAVOOONJE-GFUGXAQUSA-N,matched,383,875,"PubChem name resolves to (-)-caryophyllene; preserve stereochemistry"
+β-myrcene,31253,Myrcene,UAHWPYUMFXYFJY-UHFFFAOYSA-N,matched,506,248,"GCP count is CID-level coverage"
+nerolidol,5284507,Nerolidol,FQTLCLSUCSAZDY-SDNWHVSQSA-N,no_row,NA,NA,"No exact CID row in the 2026-09-04 GCP snapshot"
+linalool,6549,Linalool,CDOSHBSSFJOMGT-UHFFFAOYSA-N,no_row,NA,NA,"No exact CID row in the 2026-09-04 GCP snapshot"
+α-pinene,6654,(+-)-alpha-Pinene,GRWFGVWFFZKLTI-UHFFFAOYSA-N,no_row,NA,NA,"Racemic PubChem record; do not substitute for (-)-α-pinene"
+borneol,64685,Borneol,DTGKSKDOIYIVQL-UHFFFAOYSA-N,no_row,NA,NA,"Stereochemical form requires separate resolution"
+α-bisabolol,1549992,Bisabolol,RGZSQWQPBWRIAQ-LSDHHAIUSA-N,matched,405,2517,"PubChem record is stereochemically specified"
+d-limonene,440917,(+)-Limonene,XMGQYMWWDOXHJM-JTQLQIEISA-N,matched,447,1189,"Enantiomer-specific CID"
+l-limonene,439250,"Limonene, (-)-",XMGQYMWWDOXHJM-SNVBAGLBSA-N,matched,264,651631,"Enantiomer-specific CID"
+terpinolene,11463,Terpinolene,MOYAFQVGZZPNRA-UHFFFAOYSA-N,matched,286,332912,"Assay-level extraction verified for selected AID"
+fenchol,15406,Fenchol,IAIHUHQCLTYTSF-UHFFFAOYSA-N,no_row,NA,NA,"No exact CID row in the 2026-09-04 GCP snapshot"

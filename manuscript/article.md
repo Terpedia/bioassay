@@ -102,7 +102,19 @@ chemical identities have linked assay records, while most joined IDs have no
 linked assay in this snapshot. The lookup table contains CID-level assay
 counts and AID lists, but not the assay endpoint, direction, potency, control
 quality, or result interpretation needed to promote a record to measured
-terpene activity. Planned outputs include a PRISMA-style flow summary, a
+terpene activity. In the initial priority panel, exact GCP rows were present
+for β-caryophyllene (383 linked records), β-myrcene (506), α-bisabolol (405),
+d-limonene (447), l-limonene (264), and terpinolene (286); exact rows were not
+present for nerolidol, linalool, racemic α-pinene, borneol, or fenchol. This is
+a snapshot coverage result, not a biological negative.
+
+One underlying assay record was verified end-to-end for terpinolene: PubChem
+AID 332912, linked to CID 11463, reports a broth-dilution MIC of 50 μg/mL
+against *Cutibacterium acnes* ATCC 11827 and cites PMID 8158169/DOI
+10.1021/np50103a002. This supports only that endpoint-specific observation;
+it does not establish broad antimicrobial activity or clinical relevance.
+
+Planned outputs include a PRISMA-style flow summary, a
 compound identity table, an assay-level evidence map, and a missing-context
 table.
 
