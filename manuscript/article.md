@@ -176,11 +176,14 @@ efficiently resolve the major uncertainties.
 
 ## Declarations
 
-**Funding:** To be completed.  
-**Conflicts of interest:** To be completed.  
-**Author contributions:** To be completed using CRediT roles.  
+**Funding:** To be completed.
+
+**Conflicts of interest:** To be completed.
+
+**Author contributions:** To be completed using CRediT roles.
+
 **Ethics approval and consent:** Not applicable; this is a literature and
-database review with no new human or animal intervention.  
+database review with no new human or animal intervention.
 **Data availability:** Extracted records, search logs, and analysis scripts
 will be versioned in this repository when the review pass is complete.
 

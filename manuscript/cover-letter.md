@@ -32,7 +32,10 @@ and all authors will approve the submitted version.
 
 Thank you for your consideration.
 
-Sincerely,  
-**[Corresponding author name]**  
-**[Affiliation]**  
+Sincerely,
+
+**[Corresponding author name]**
+
+**[Affiliation]**
+
 **[Email]**
