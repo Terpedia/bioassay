@@ -1,0 +1,7 @@
+metric,value,source_table,interpretation
+pubchem_cid_rows,226050,terpedia_core.terpene_pubchem_bioassay_lookup_20260904,"CID-level lookup rows in the GCP snapshot"
+pubchem_cids_with_any_assay,29254,terpedia_core.terpene_pubchem_bioassay_lookup_20260904,"A PubChem assay link exists; this is not proof of terpene activity"
+pubchem_cids_with_zero_assay,196796,terpedia_core.terpene_pubchem_bioassay_lookup_20260904,"No linked assay in this snapshot; not evidence of inactivity"
+terpene_ids_with_pubchem,48708,terpedia_core.terpene_pubchem_lookup_20260904,"Distinct Terpedia IDs joined to at least one PubChem CID"
+terpene_ids_with_any_assay,6454,terpedia_core.terpene_pubchem_bioassay_lookup_20260904,"Distinct Terpedia IDs with a CID having one or more linked assays"
+terpene_ids_with_zero_assay,42255,terpedia_core.terpene_pubchem_bioassay_lookup_20260904,"Distinct Terpedia IDs whose joined CIDs had zero linked assays"

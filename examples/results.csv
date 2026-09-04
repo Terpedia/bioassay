@@ -1,0 +1,4 @@
+compound,assay,concentration,unit,replicate,sample_signal,positive_control,negative_control
+alpha-pinene,example-receptor,1,uM,1,45,80,20
+alpha-pinene,example-receptor,1,uM,2,50,80,20
+alpha-pinene,example-receptor,10,uM,1,70,80,20
