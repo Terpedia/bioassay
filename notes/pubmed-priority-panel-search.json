@@ -1,0 +1,73 @@
+{
+  "retrieved_at_utc": "2026-09-04T13:34:02+00:00",
+  "database": "PubMed",
+  "candidate_record_count": 7861,
+  "queries": [
+    {
+      "compound": "beta-caryophyllene",
+      "query": "\"beta-caryophyllene\"[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",
+      "candidate_count": 1515,
+      "retrieved_at_utc": "2026-09-04T13:34:02+00:00"
+    },
+    {
+      "compound": "beta-myrcene",
+      "query": "\"beta-myrcene\"[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",
+      "candidate_count": 331,
+      "retrieved_at_utc": "2026-09-04T13:34:02+00:00"
+    },
+    {
+      "compound": "nerolidol",
+      "query": "\"nerolidol\"[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",
+      "candidate_count": 535,
+      "retrieved_at_utc": "2026-09-04T13:34:02+00:00"
+    },
+    {
+      "compound": "linalool",
+      "query": "\"linalool\"[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",
+      "candidate_count": 2423,
+      "retrieved_at_utc": "2026-09-04T13:34:02+00:00"
+    },
+    {
+      "compound": "alpha-pinene",
+      "query": "\"alpha-pinene\"[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",
+      "candidate_count": 2114,
+      "retrieved_at_utc": "2026-09-04T13:34:02+00:00"
+    },
+    {
+      "compound": "borneol",
+      "query": "\"borneol\"[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",
+      "candidate_count": 982,
+      "retrieved_at_utc": "2026-09-04T13:34:02+00:00"
+    },
+    {
+      "compound": "alpha-bisabolol",
+      "query": "\"alpha-bisabolol\"[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",
+      "candidate_count": 321,
+      "retrieved_at_utc": "2026-09-04T13:34:02+00:00"
+    },
+    {
+      "compound": "d-limonene",
+      "query": "\"d-limonene\"[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",
+      "candidate_count": 830,
+      "retrieved_at_utc": "2026-09-04T13:34:02+00:00"
+    },
+    {
+      "compound": "l-limonene",
+      "query": "\"l-limonene\"[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",
+      "candidate_count": 31,
+      "retrieved_at_utc": "2026-09-04T13:34:02+00:00"
+    },
+    {
+      "compound": "terpinolene",
+      "query": "\"terpinolene\"[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",
+      "candidate_count": 268,
+      "retrieved_at_utc": "2026-09-04T13:34:02+00:00"
+    },
+    {
+      "compound": "fenchol",
+      "query": "\"fenchol\"[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",
+      "candidate_count": 36,
+      "retrieved_at_utc": "2026-09-04T13:34:02+00:00"
+    }
+  ]
+}

@@ -16,12 +16,26 @@
 3. PubChem PUG REST compound properties — identity crosswalk.
 4. PubChem PUG REST assay description and CSV endpoints — assay-level verification.
 
+The PubMed query runner paginates E-utilities results in 1,000-record pages;
+the saved query CSV records the final candidate count for each compound query.
+The first run before pagination was discarded as a denominator because four
+queries reached the page cap.
+
 ## Current verified sample
 
 The first extraction pass verified AIDs 332912, 338300, and 1189 for exact
 compound-level rows. The resulting observations and limitations are recorded
 in `data/priority-assay-observations.csv` and are not a substitute for the
 complete review search.
+
+The current PubMed candidate export is `data/pubmed-priority-panel-candidates.csv`.
+Every row is copied into `data/pubmed-screening-records.csv` with
+`include_status=unreviewed`; no candidate is treated as included until title,
+abstract, identity, and full-text eligibility are reviewed.
+
+The 11 query counts sum to 9,386 hits. PMID-level deduplication yields 7,861
+unique candidates. The `retmax` pagination limit is handled in
+`scripts/search_pubmed_priority_panel.py`.
 
 ## Reproducibility rules
 

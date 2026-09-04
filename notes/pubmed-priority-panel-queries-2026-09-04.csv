@@ -1,0 +1,12 @@
+compound,query,candidate_count,retrieved_at_utc
+beta-caryophyllene,"""beta-caryophyllene""[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",1515,2026-09-04T13:34:02+00:00
+beta-myrcene,"""beta-myrcene""[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",331,2026-09-04T13:34:02+00:00
+nerolidol,"""nerolidol""[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",535,2026-09-04T13:34:02+00:00
+linalool,"""linalool""[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",2423,2026-09-04T13:34:02+00:00
+alpha-pinene,"""alpha-pinene""[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",2114,2026-09-04T13:34:02+00:00
+borneol,"""borneol""[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",982,2026-09-04T13:34:02+00:00
+alpha-bisabolol,"""alpha-bisabolol""[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",321,2026-09-04T13:34:02+00:00
+d-limonene,"""d-limonene""[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",830,2026-09-04T13:34:02+00:00
+l-limonene,"""l-limonene""[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",31,2026-09-04T13:34:02+00:00
+terpinolene,"""terpinolene""[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",268,2026-09-04T13:34:02+00:00
+fenchol,"""fenchol""[Title/Abstract] AND (bioassay OR bioactivity OR pharmacology OR receptor OR antimicrobial)",36,2026-09-04T13:34:02+00:00

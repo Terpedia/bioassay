@@ -4,6 +4,10 @@ The final manuscript will report the study-selection flow from the screening
 file rather than from database row counts. The current GCP BioAssay counts are
 coverage denominators and must not be used as the number of included studies.
 
+The PubMed candidate export is an identification-stage artifact. Its rows are
+all `unreviewed` until eligibility and full-text checks are completed; the
+current export must not be described as the number of included studies.
+
 ## Required flow counts
 
 | Stage | Count source |

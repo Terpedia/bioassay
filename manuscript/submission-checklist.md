@@ -7,8 +7,8 @@ ready. Items marked `pending` require the final search and author review.
 |---|---|---|
 | Journal and article type selected | complete | Review target recorded in `JOURNAL_TARGET.md` |
 | Title, abstract, and keywords | in progress | Complete abstract after evidence synthesis; add 4–6 keywords |
-| Search strategy and dates | in progress | Freeze database queries and save search outputs |
-| Screening and exclusion log | pending | Add title/abstract and full-text decisions with reasons |
+| Search strategy and dates | complete for initial pass | 9,386 PubMed hits; 7,861 unique candidates; queries and export archived |
+| Screening and exclusion log | in progress | Candidate file exists; title/abstract and full-text decisions remain |
 | PRISMA-ScR flow summary | pending | Populate only from the screening log |
 | Chemical identity crosswalk | in progress | Priority panel exists; extend to all included records |
 | Assay-level extraction table | in progress | Expand beyond the initial verified observations |

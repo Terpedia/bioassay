@@ -91,6 +91,12 @@ create a single activity score.
 
 ### 3.1 Search and screening
 
+The initial PubMed identification pass retrieved 9,386 query hits across the
+11 priority compounds. After PMID-level deduplication, 7,861 unique candidate
+records remained. These records are archived in the repository and are all
+marked `unreviewed`; therefore, they are identification-stage counts and not
+included-study counts.
+
 The Terpedia GCP snapshot contains 226,050 PubChem CID assay-lookup rows.
 Of these, 29,254 rows have one or more linked PubChem BioAssay records and
 196,796 have a zero assay count. In a separate identity-to-CID join, 48,708
