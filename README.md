@@ -11,6 +11,9 @@ The selected journal and submission standard are in
 The first GCP-backed coverage snapshot is recorded in
 [`data/gcp-bioassay-coverage-2026-09-04.csv`](data/gcp-bioassay-coverage-2026-09-04.csv),
 with the reproducible query in [`queries/00_gcp_coverage.sql`](queries/00_gcp_coverage.sql).
+The current priority-panel identity crosswalk and verified assay observations
+are in [`data/priority-compound-identity-crosswalk.csv`](data/priority-compound-identity-crosswalk.csv)
+and [`data/priority-assay-observations.csv`](data/priority-assay-observations.csv).
 Claim and hypothesis registers are maintained in the sibling Terpedia
 [`claims/data/`](../claims/data/) directory.
 

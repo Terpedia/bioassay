@@ -108,11 +108,20 @@ d-limonene (447), l-limonene (264), and terpinolene (286); exact rows were not
 present for nerolidol, linalool, racemic α-pinene, borneol, or fenchol. This is
 a snapshot coverage result, not a biological negative.
 
-One underlying assay record was verified end-to-end for terpinolene: PubChem
-AID 332912, linked to CID 11463, reports a broth-dilution MIC of 50 μg/mL
-against *Cutibacterium acnes* ATCC 11827 and cites PMID 8158169/DOI
-10.1021/np50103a002. This supports only that endpoint-specific observation;
-it does not establish broad antimicrobial activity or clinical relevance.
+Underlying assay records were verified end-to-end for two compounds in AID
+332912: β-caryophyllene (MIC 6.25 μg/mL) and terpinolene (MIC 50 μg/mL) against
+*Cutibacterium acnes* ATCC 11827, with PMID 8158169 and DOI
+10.1021/np50103a002. A separate ChEMBL-derived assay (AID 338300) reports
+β-myrcene at 6.7% activity in an inhalation assay against *Psoroptes ovis*.
+These are endpoint- and organism-specific observations; MIC, percent activity,
+and receptor potency must not be pooled or presented as a universal terpene
+activity ranking.
+
+The priority panel also demonstrates why assay flags require context:
+d-limonene is marked “Active” in AID 1189, but the returned record lacks a
+quantitative endpoint and belongs to a Salmonella mutagenicity summary. It is
+therefore retained as a context-limited record rather than promoted to a
+general activity claim.
 
 Planned outputs include a PRISMA-style flow summary, a
 compound identity table, an assay-level evidence map, and a missing-context

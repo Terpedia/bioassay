@@ -1,0 +1,6 @@
+retrieved_at_utc,resource,record_type,records_requested,records_verified,limitation
+2026-09-04T13:00:00Z,https://pubchem.ncbi.nlm.nih.gov/rest/pug/assay/aid/332912/description/JSON,assay_description,1,1,"Description metadata verified; compound-level result rows retrieved separately"
+2026-09-04T13:00:00Z,https://pubchem.ncbi.nlm.nih.gov/rest/pug/assay/aid/332912/CSV,assay_result_rows,2,2,"Filtered by exact PubChem CID; AID contains many other substances"
+2026-09-04T13:00:00Z,https://pubchem.ncbi.nlm.nih.gov/rest/pug/assay/aid/338300/description/JSON,assay_description,1,1,"Description metadata verified"
+2026-09-04T13:00:00Z,https://pubchem.ncbi.nlm.nih.gov/rest/pug/assay/aid/338300/CSV,assay_result_rows,1,1,"Filtered by exact PubChem CID"
+2026-09-04T13:00:00Z,https://pubchem.ncbi.nlm.nih.gov/rest/pug/assay/aid/1189/CSV,assay_result_rows,1,1,"Activity flag has no quantitative endpoint in returned row"
