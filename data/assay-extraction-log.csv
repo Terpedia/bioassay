@@ -4,3 +4,4 @@ retrieved_at_utc,resource,record_type,records_requested,records_verified,limitat
 2026-09-04T13:00:00Z,https://pubchem.ncbi.nlm.nih.gov/rest/pug/assay/aid/338300/description/JSON,assay_description,1,1,"Description metadata verified"
 2026-09-04T13:00:00Z,https://pubchem.ncbi.nlm.nih.gov/rest/pug/assay/aid/338300/CSV,assay_result_rows,1,1,"Filtered by exact PubChem CID"
 2026-09-04T13:00:00Z,https://pubchem.ncbi.nlm.nih.gov/rest/pug/assay/aid/1189/CSV,assay_result_rows,1,1,"Activity flag has no quantitative endpoint in returned row"
+2026-09-04T13:00:00Z,https://pubchem.ncbi.nlm.nih.gov/rest/pug/assay/aid/338297/CSV,assay_result_rows,9,9,"AIDs 338297–338302; dose-series rows filtered by exact CID; assay endpoints remain organism-level"

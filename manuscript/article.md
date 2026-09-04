@@ -7,6 +7,9 @@
 **Working title:** *What Does “Active” Mean for a Terpene? An Identity-Resolved
 Evidence Map of Terpene Bioassay Activity*
 
+**Keywords:** terpenes; phytochemistry; bioassay; natural products;
+structure–activity relationships; evidence synthesis
+
 ## Abstract
 
 ### Background
@@ -113,7 +116,10 @@ Underlying assay records were verified end-to-end for two compounds in AID
 *Cutibacterium acnes* ATCC 11827, with PMID 8158169 and DOI
 10.1021/np50103a002. A separate ChEMBL-derived assay (AID 338300) reports
 β-myrcene at 6.7% activity in an inhalation assay against *Psoroptes ovis*.
-These are endpoint- and organism-specific observations; MIC, percent activity,
+In the same assay series, β-myrcene was reported at 0%, 5.2%, and 6.7% at 1,
+3, and 6 μL, respectively, whereas d-limonene was reported at 0% in three
+direct-contact dilutions. These are endpoint- and organism-specific
+observations; MIC, percent activity,
 and receptor potency must not be pooled or presented as a universal terpene
 activity ranking.
 
@@ -172,6 +178,9 @@ efficiently resolve the major uncertainties.
 
 **Funding:** To be completed.  
 **Conflicts of interest:** To be completed.  
+**Author contributions:** To be completed using CRediT roles.  
+**Ethics approval and consent:** Not applicable; this is a literature and
+database review with no new human or animal intervention.  
 **Data availability:** Extracted records, search logs, and analysis scripts
 will be versioned in this repository when the review pass is complete.
 
