@@ -5,6 +5,8 @@ bioassay activity.
 
 The working article is [`manuscript/article.md`](manuscript/article.md). The
 review protocol and extraction schema are in [`protocol.md`](protocol.md).
+The selected journal and submission standard are in
+[`JOURNAL_TARGET.md`](JOURNAL_TARGET.md).
 
 The first GCP-backed coverage snapshot is recorded in
 [`data/gcp-bioassay-coverage-2026-09-04.csv`](data/gcp-bioassay-coverage-2026-09-04.csv),

@@ -2,7 +2,10 @@
 
 **Article type:** Scoping review / systematic evidence map  
 **Status:** Protocol and manuscript scaffold; initial GCP coverage results recorded 2026-09-04  
-**Target journal:** To be selected
+**Target journal:** *Phytochemistry Reviews* (Springer Nature)
+
+**Working title:** *What Does “Active” Mean for a Terpene? An Identity-Resolved
+Evidence Map of Terpene Bioassay Activity*
 
 ## Abstract
 
